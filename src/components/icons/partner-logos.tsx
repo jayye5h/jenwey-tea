@@ -1,0 +1,14 @@
+export { default as CaesarsPalaceLogo } from "./svg-logos/CaesarsPalaceLogo";
+export { default as VaynerMediaLogo } from "./svg-logos/VaynerMediaLogo";
+export { default as TMobileArenaLogo } from "./svg-logos/TMobileArenaLogo";
+export { default as FourSeasonsLogo } from "./svg-logos/FourSeasonsLogo";
+export { default as CanyonRanchLogo } from "./svg-logos/CanyonRanchLogo";
+export { default as TheVenetianLogo } from "./svg-logos/TheVenetianLogo";
+export { default as MontageLogo } from "./svg-logos/MontageLogo";
+export { default as NobleHouseLogo } from "./svg-logos/NobleHouseLogo";
+export { default as GurneysResortsLogo } from "./svg-logos/GurneysResortsLogo";
+export { default as RitzCarltonLogo } from "./svg-logos/RitzCarltonLogo";
+export { default as DelanoLogo } from "./svg-logos/DelanoLogo";
+export { default as TheRanchMalibuLogo } from "./svg-logos/TheRanchMalibuLogo";
+export { default as TheRanchHudsonValleyLogo } from "./svg-logos/TheRanchHudsonValleyLogo";
+export { default as WaldorfAstoriaLogo } from "./svg-logos/WaldorfAstoriaLogo";
